@@ -1,0 +1,41 @@
+TIME-LOCKED SURVIVOR
+CREDITS
+
+AI
+Jesse Menard
+
+CHARACTER DESIGN
+Taejaun Ayton
+Samantha Green
+
+LEVEL DESIGN
+Samantha Green
+
+PROGRAMMING
+Jesse Menard
+Migel Mata
+Taejaun Ayton
+Thomas Caligiuri
+Samantha Green
+
+MECHANICS & CONTROLS
+Jesse Menard
+Thomas Caligiuri
+
+MUSIC & SOUND
+Migel Mata
+
+STORY DESIGN
+Karlis Torns
+Jesse Menard
+Migel Mata
+Taejaun Ayton
+Thomas Caligiuri
+Samantha Green
+
+UI & HUD
+Migel Mata
+Samantha Green
+
+THANKS FOR PLAYING!
+
