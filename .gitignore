@@ -27,10 +27,13 @@ x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
-[Bb]in/
+# [Bb]in/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+
+Template/Intermediate
+Template/x64
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -301,7 +304,7 @@ node_modules/
 *.dsw
 *.dsp
 
-# Visual Studio 6 technical files
+# Visual Studio 6 technical files 
 *.ncb
 *.aps
 
@@ -396,3 +399,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+*.db
+Template/Intermediate/Debug/Time-Locked-Survivors.exe.recipe
+Template/Intermediate/Debug/Time-Loc.EE7E35FB.tlog/Time-Locked-Survivors.lastbuildstate
+Template/Intermediate/Debug/Template.log
+bin/Debug/Time-Locked-Survivors.exe
+bin/Debug/Time-Locked-Survivors.pdb
